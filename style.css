@@ -1,0 +1,17 @@
+.body {
+  min-height: 8000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(190, 204, 193);
+}
+
+#skill {
+  padding-top: 5rem;
+  background-color: #273036;
+  color: white;
+}
+section {
+  padding-top: 5rem;
+}
